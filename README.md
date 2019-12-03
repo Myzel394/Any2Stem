@@ -38,7 +38,7 @@ if __name__ == "__main__":
 
 **Functions**
 
-|                            |                                                                                           |
+| Function                   | Description                                                                               |
 |----------------------------|-------------------------------------------------------------------------------------------|
 | `extract_file`             | Extracts one file                                                                         |
 | `extract_from_folder`      | Extracts all files in a folder                                                            |
