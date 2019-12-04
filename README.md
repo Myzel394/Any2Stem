@@ -5,7 +5,7 @@ This Python package enables you to extract an instrumental from any public Youtu
 Import `Stem` from `Any2Stem.classes` and create a `Stem` object. Currently `Stem` provides 4 ways to extract instrumentals.
 
 **Example code**
-```
+```python
 import os
 import sys
 from Any2Stem.classes import Stem
